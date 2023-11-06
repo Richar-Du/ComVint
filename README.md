@@ -1,9 +1,16 @@
 ## What Makes for Good Visual Instruction? Synthesizing Complex Visual Reasoning Instruction for Visual Instruction Tuning
 
-This repository contains the code & data for our paper [What Makes for Good Visual Instruction? Synthesizing Complex Visual Reasoning Instruction for Visual Instruction Tuning]().
+This repository contains the code & data for our paper [What Makes for Good Visual Instruction? Synthesizing Complex Visual Reasoning Instruction for Visual Instruction Tuning](https://arxiv.org/abs/2311.01487).
 
 ```bibtex
-
+@misc{du2023makes,
+      title={What Makes for Good Visual Instructions? Synthesizing Complex Visual Reasoning Instructions for Visual Instruction Tuning}, 
+      author={Yifan Du and Hangyu Guo and Kun Zhou and Wayne Xin Zhao and Jinpeng Wang and Chuyuan Wang and Mingchen Cai and Ruihua Song and Ji-Rong Wen},
+      year={2023},
+      eprint={2311.01487},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
 
 ## Overview
