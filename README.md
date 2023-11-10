@@ -24,7 +24,7 @@ We propose *ComVint*, a visual instruction dataset, to improve the zero-shot gen
 
 ## ComVint Data
 
-You can find our visual instruction data *ComVint* at the path [data/ComVint/ComVint.jsonl](./data/ComVint/ComVint.jsonl).
+You can download our visual instruction data *ComVint* at [Download](https://drive.google.com/file/d/1eH5t8YoI2CGR2dTqZO0ETWpBukjcZWsd/view?usp=sharing).
 
 ## Build ComVint
 
@@ -41,7 +41,8 @@ If you want to build ComVint yourself with image annotations (e.g., Flickr and V
 │   └── flickr30k-images
 └── vg
     ├── region_descriptions.json
-    └── region_descriptions_v1.json
+    ├── region_descriptions_v1.json
+    └── image
 ```
 
 2. Data Processing
