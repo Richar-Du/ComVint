@@ -24,7 +24,7 @@ We propose *ComVint*, a visual instruction dataset, to improve the zero-shot gen
 
 ## ComVint Data
 
-You can download our visual instruction data *ComVint* at [Download](https://drive.google.com/file/d/1eH5t8YoI2CGR2dTqZO0ETWpBukjcZWsd/view?usp=sharing).
+You can download our visual instruction data *ComVint* at [Download Url](https://drive.google.com/file/d/1eH5t8YoI2CGR2dTqZO0ETWpBukjcZWsd/view?usp=sharing).
 
 ## Build ComVint
 
